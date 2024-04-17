@@ -1,0 +1,221 @@
+{
+  "game_map": [
+    [
+      {
+        "x": 0,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "extra_passage"
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 7,
+        "y": 0,
+        "object_type": "cell",
+        "cell_type": "end"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "extra_passage"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 6,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 7,
+        "y": 1,
+        "object_type": "cell",
+        "cell_type": "wall"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 6,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "extra_passage"
+      },
+      {
+        "x": 7,
+        "y": 2,
+        "object_type": "cell",
+        "cell_type": "wall"
+      }
+    ],
+    [
+      {
+        "x": 0,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "start"
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "passage"
+      },
+      {
+        "x": 6,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "wall"
+      },
+      {
+        "x": 7,
+        "y": 3,
+        "object_type": "cell",
+        "cell_type": "wall"
+      }
+    ]
+  ],
+  "items": [
+    {
+      "x": 2,
+      "y": 1,
+      "name": "key"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "name": "heart"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "name": "heartheart"
+    }
+  ]
+}
